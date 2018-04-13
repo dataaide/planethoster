@@ -35,9 +35,9 @@
 
         @yield('contenu')
 <footer>
-<div class="container">
+<div class="container ">
 <br><br><hr>
-    <div class="row">
+    <div class="row bg-dark text-white container-fluid">
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, laborum ab aspernatur commodi modi eaque necessitatibus odit id deserunt velit fuga ad quisquam exercitationem, alias repellendus, numquam quis ipsum ratione?
         </p>
     </div>
